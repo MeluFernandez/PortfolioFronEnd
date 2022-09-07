@@ -1,0 +1,17 @@
+.navbar.navbar-expand-lg.bg-primary {
+    background-color: rgba(35, 214, 205, 0.745) !important;
+    /*background: rgb(25,0,255);
+    background: -moz-linear-gradient(0deg, rgba(25,0,255,1) 25%, rgba(236,255,0,1) 50%, rgba(25,0,255,1) 75%);
+    background: -webkit-linear-gradient(0deg, rgba(25,0,255,1) 25%, rgba(236,255,0,1) 50%, rgba(25,0,255,1) 75%);
+    background: linear-gradient(0deg, rgba(25,0,255,1) 25%, rgba(236,255,0,1) 50%, rgba(25,0,255,1) 75%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#1900ff",endColorstr="#1900ff",GradientType=1);*/
+}
+
+i.fa-brands.fa-instagram.fa-2xl:hover {
+color: violet
+}
+
+.list-group-item {
+    background-color: transparent;
+    border: transparent;
+}
